@@ -1,7 +1,7 @@
 # Rapport — ScanTrack AB: Containerisera och deploya din nod
 
-**Grupp:**  
-**Deltagare:** Kevin Hermansson  
+**Grupp:**  Neil Goldman
+**Deltagare:** Kevin Hermansson & Pontus Paepke
 **Datum:** 2026-09-07  
 **Namn:** Kevin Hermansson  
 
